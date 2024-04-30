@@ -1,0 +1,55 @@
+#logo {
+    color: white;
+}
+
+.nav-link {
+    color: white !important; 
+}
+
+.titlecard {
+    background-color: black;
+}
+
+.row {
+    padding: 1%;
+}
+
+.fa-solid {
+    padding: 10px;
+    padding-inline: 47%;
+    background-color: #0DCAF0;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.bordecard {
+    margin-right: 30px;
+}
+
+.card-img-top {
+    width: 80%; 
+    height: 250px;
+    object-fit: cover;
+}
+
+.tarjeta {
+    background-color: #0DCAF0;
+}
+
+footer {
+    color: white;
+    background-color: #0DCAF0;
+    padding: 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-icons i {
+    margin-right: 10px;
+}

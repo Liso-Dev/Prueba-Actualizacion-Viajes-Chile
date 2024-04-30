@@ -1,0 +1,113 @@
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+.bc-color {
+  background-color: #212529;
+}
+
+.section-title {
+  color: white;
+  border-bottom: 3px solid white;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.about-card {
+  background-color: #212529;
+}
+.about-card p {
+  color: white;
+}
+
+.super-box {
+  place-content: center;
+  justify-content: space-between;
+}
+
+.img-highlighted img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.box-card-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid rgb(0, 0, 0);
+  padding-top: 10px;
+}
+
+.bi-airplane-fill {
+  margin-right: 10px;
+}
+
+.reviews-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-text2 {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.reviews-card {
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+.reviews-card img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  margin: 5%;
+  border-radius: 50%;
+}
+
+#carouselExampleCaptions {
+  align-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+}
+#carouselExampleCaptions .carousel-inner {
+  border-radius: 20px;
+}
+
+.btn-forum {
+  background-color: white !important;
+  color: black !important;
+  border: none;
+  border-color: black;
+}
+
+#logo {
+  color: white;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.about-img {
+  width: 100%;
+  border-radius: 40px;
+  padding: 3%;
+}
+
+.forum {
+  color: white;
+}
+
+.form-box i {
+  margin-left: 5px;
+}
+
+.form-check {
+  color: white;
+}
+
+.data {
+  padding-top: 40px;
+  padding-bottom: 50px;
+}/*# sourceMappingURL=main.css.map */
